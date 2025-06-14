@@ -4,9 +4,9 @@ This project is a full-stack application that demonstrates integration with vari
 
 ## Project Structure
 
-.
-├── frontend/ # React frontend application
-│ ├── src/ # Source code
+```.
+├── frontend/
+│ ├── src/ 
 │ ├── public/ # Static files
 │ └── package.json # Frontend dependencies
 ├── backend/ # FastAPI backend application
@@ -14,7 +14,7 @@ This project is a full-stack application that demonstrates integration with vari
 │ ├── main.py # Main application file
 │ └── requirements.txt # Backend dependencies
 └── dump.rdb # Redis database file
-
+```
 
 ## Features
 
